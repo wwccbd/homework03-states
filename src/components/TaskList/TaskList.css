@@ -1,0 +1,22 @@
+.task-list {
+    padding: 16px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.empty-tasks-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.empty-tasks-logo {
+    width: 400px;
+    margin: auto;
+}
+
+.empty-tasks-text {
+    font-size: 20px;
+    color: black;
+}
